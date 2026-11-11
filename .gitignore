@@ -1,0 +1,20 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+data/
+coverage/
+*.log
+.demo.env
+.npm-cache/
+.research/
+runtime/
+.tools/
+dist/
+.env.*
+!.env.example
+*.sqlite*
+*.session*
+.review/
+# 打包产物：含内核版带有腾讯 QQ 程序文件，绝不能进入仓库。
+Xuqiao-*.zip

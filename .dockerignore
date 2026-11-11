@@ -1,0 +1,15 @@
+node_modules
+.npm-cache
+.env
+data
+test
+.git
+*.log
+.research
+runtime
+.tools
+dist
+.env.*
+!.env.example
+**/*.sqlite*
+**/*.session*

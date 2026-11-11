@@ -1,0 +1,77 @@
+Limen Source-Available License 1.0
+Limen 源码可见许可证 1.0
+
+Copyright (c) 2026 Limen contributors. All rights reserved.
+版权所有 (c) 2026 Limen 贡献者，保留所有权利。
+
+This license covers the source code, documentation and build scripts in this
+repository ("the Software"). It does not cover Tencent QQ or any other
+third-party software, which remain under their own terms.
+
+本许可证只涉及本仓库中的源代码、文档与构建脚本（以下称“本软件”）。
+腾讯 QQ 及其他第三方软件不在授权范围内，其权利归各自权利人所有。
+
+When the English and Chinese texts differ, the Chinese text prevails.
+中英文表述不一致时，以中文为准。
+
+--------------------------------------------------------------------------------
+English
+--------------------------------------------------------------------------------
+
+1. Permission. You may copy, run, modify and redistribute the Software for
+   personal study, research and evaluation, provided you keep this license,
+   the copyright notice and the compliance notices intact.
+
+2. No commercial use. You may not sell, license, rent, host as a paid service,
+   or otherwise use the Software commercially, nor embed it as a substantial
+   part of a commercial product or service.
+
+3. No redistribution of Tencent software. You may not distribute QQ program
+   files, wrapper.node, or any archive that contains them — including this
+   project's "with-QQ" portable builds. Users must obtain QQ from Tencent
+   through official channels.
+
+4. No affiliation. You may not claim or imply affiliation with, authorization
+   from, or endorsement by Tencent.
+
+5. No warranty. The Software is provided "as is", without warranty of any kind,
+   express or implied, including merchantability, fitness for a particular
+   purpose and non-infringement. The authors are not liable for any damages,
+   including account restrictions, data loss or device damage.
+
+6. Termination. Any violation terminates this license immediately. You must
+   then stop using the Software and delete all copies.
+
+7. Marks. "QQ" and "Tencent" are trademarks of Tencent. They are used here only
+   descriptively. This license grants no rights to them.
+
+--------------------------------------------------------------------------------
+中文
+--------------------------------------------------------------------------------
+
+1. 授权。为个人学习、研究、评估目的，你可以复制、运行、修改和再分发本软件，
+   前提是完整保留本许可证、版权声明与合规说明。
+
+2. 禁止商业使用。不得销售、收费授权、出租、作为付费服务托管，或以其他方式
+   将本软件用于商业目的；也不得将其作为商业产品或服务的主要部分。
+
+3. 禁止分发腾讯软件副本。不得分发 QQ 程序文件、wrapper.node，或任何包含
+   它们的打包产物（包括本项目“含内核”的便携包）。使用者须自行通过腾讯官方
+   渠道获取 QQ。
+
+4. 禁止暗示关联。不得声称或暗示与腾讯存在隶属、授权或合作关系，也不得暗示
+   腾讯认可本项目。
+
+5. 无担保。本软件按“现状”提供，不提供任何明示或默示担保，包括适销性、特定
+   用途适用性与不侵权担保。作者不对使用本软件造成的任何损失负责，包括账号被
+   限制或封禁、数据丢失、设备损坏。
+
+6. 终止。违反上述任何条款，授权立即终止；你须停止使用并删除全部副本。
+
+7. 商标。“QQ”“腾讯”等名称与标识归腾讯公司所有，本项目仅为描述性使用，
+   本许可证不授予相关权利。
+
+--------------------------------------------------------------------------------
+
+合规说明与使用边界见 docs/LEGAL.md。本许可证不构成腾讯的授权，也不代表
+腾讯认可本项目。
